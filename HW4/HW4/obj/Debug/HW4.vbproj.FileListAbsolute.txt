@@ -1,0 +1,14 @@
+C:\Users\shekh\source\repos\HW4\HW4\bin\Debug\HW4.exe.config
+C:\Users\shekh\source\repos\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\shekh\source\repos\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\shekh\source\repos\HW4\HW4\bin\Debug\HW4.xml
+C:\Users\shekh\source\repos\HW4\HW4\obj\Debug\HW4.vbprojAssemblyReference.cache
+C:\Users\shekh\source\repos\HW4\HW4\obj\Debug\HW4.CommissionCalculator.resources
+C:\Users\shekh\source\repos\HW4\HW4\obj\Debug\HW4.AboutBox1.resources
+C:\Users\shekh\source\repos\HW4\HW4\obj\Debug\HW4.Resources.resources
+C:\Users\shekh\source\repos\HW4\HW4\obj\Debug\HW4.vbproj.GenerateResource.cache
+C:\Users\shekh\source\repos\HW4\HW4\obj\Debug\HW4.vbproj.CoreCompileInputs.cache
+C:\Users\shekh\source\repos\HW4\HW4\obj\Debug\HW4.exe
+C:\Users\shekh\source\repos\HW4\HW4\obj\Debug\HW4.xml
+C:\Users\shekh\source\repos\HW4\HW4\obj\Debug\HW4.pdb
+C:\Users\shekh\source\repos\HW4\HW4\obj\Debug\HW4.SummaryForm.resources

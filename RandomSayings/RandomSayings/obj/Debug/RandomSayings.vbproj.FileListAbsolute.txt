@@ -1,0 +1,12 @@
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\bin\Debug\RandomSayings.exe.config
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\bin\Debug\RandomSayings.exe
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\bin\Debug\RandomSayings.pdb
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\bin\Debug\RandomSayings.xml
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\obj\Debug\RandomSayings.vbprojAssemblyReference.cache
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\obj\Debug\RandomSayings.MainForm.resources
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\obj\Debug\RandomSayings.Resources.resources
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\obj\Debug\RandomSayings.vbproj.GenerateResource.cache
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\obj\Debug\RandomSayings.vbproj.CoreCompileInputs.cache
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\obj\Debug\RandomSayings.exe
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\obj\Debug\RandomSayings.xml
+C:\Users\shekh\source\repos\RandomSayings\RandomSayings\obj\Debug\RandomSayings.pdb

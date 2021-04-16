@@ -1,0 +1,12 @@
+C:\Users\shekh\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\shekh\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\shekh\source\repos\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\shekh\source\repos\Lab2\Lab2\bin\Debug\Lab2.xml
+C:\Users\shekh\source\repos\Lab2\Lab2\obj\Debug\Lab2.vbprojAssemblyReference.cache
+C:\Users\shekh\source\repos\Lab2\Lab2\obj\Debug\Lab2.DiscountedPriceTextBox.resources
+C:\Users\shekh\source\repos\Lab2\Lab2\obj\Debug\Lab2.Resources.resources
+C:\Users\shekh\source\repos\Lab2\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.cache
+C:\Users\shekh\source\repos\Lab2\Lab2\obj\Debug\Lab2.vbproj.CoreCompileInputs.cache
+C:\Users\shekh\source\repos\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\shekh\source\repos\Lab2\Lab2\obj\Debug\Lab2.xml
+C:\Users\shekh\source\repos\Lab2\Lab2\obj\Debug\Lab2.pdb

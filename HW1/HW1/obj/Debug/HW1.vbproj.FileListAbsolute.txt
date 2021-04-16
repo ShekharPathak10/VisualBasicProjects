@@ -1,0 +1,12 @@
+C:\Users\shekh\source\repos\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\shekh\source\repos\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\shekh\source\repos\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\shekh\source\repos\HW1\HW1\bin\Debug\HW1.xml
+C:\Users\shekh\source\repos\HW1\HW1\obj\Debug\HW1.vbprojAssemblyReference.cache
+C:\Users\shekh\source\repos\HW1\HW1\obj\Debug\HW1.RentalChargesCalculator.resources
+C:\Users\shekh\source\repos\HW1\HW1\obj\Debug\HW1.Resources.resources
+C:\Users\shekh\source\repos\HW1\HW1\obj\Debug\HW1.vbproj.GenerateResource.cache
+C:\Users\shekh\source\repos\HW1\HW1\obj\Debug\HW1.vbproj.CoreCompileInputs.cache
+C:\Users\shekh\source\repos\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\shekh\source\repos\HW1\HW1\obj\Debug\HW1.xml
+C:\Users\shekh\source\repos\HW1\HW1\obj\Debug\HW1.pdb
